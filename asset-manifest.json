@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/red-social-2-front/static/css/main.a52ccd08.chunk.css",
+    "main.js": "/red-social-2-front/static/js/main.4dffc99a.chunk.js",
+    "main.js.map": "/red-social-2-front/static/js/main.4dffc99a.chunk.js.map",
+    "runtime-main.js": "/red-social-2-front/static/js/runtime-main.8fbe9756.js",
+    "runtime-main.js.map": "/red-social-2-front/static/js/runtime-main.8fbe9756.js.map",
+    "static/css/2.c4418c31.chunk.css": "/red-social-2-front/static/css/2.c4418c31.chunk.css",
+    "static/js/2.5abccca3.chunk.js": "/red-social-2-front/static/js/2.5abccca3.chunk.js",
+    "static/js/2.5abccca3.chunk.js.map": "/red-social-2-front/static/js/2.5abccca3.chunk.js.map",
+    "index.html": "/red-social-2-front/index.html",
+    "precache-manifest.f989c7c04c752e6ea60422b371654f7d.js": "/red-social-2-front/precache-manifest.f989c7c04c752e6ea60422b371654f7d.js",
+    "service-worker.js": "/red-social-2-front/service-worker.js",
+    "static/css/2.c4418c31.chunk.css.map": "/red-social-2-front/static/css/2.c4418c31.chunk.css.map",
+    "static/css/main.a52ccd08.chunk.css.map": "/red-social-2-front/static/css/main.a52ccd08.chunk.css.map",
+    "static/media/ig6.png": "/red-social-2-front/static/media/ig6.79847a58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fbe9756.js",
+    "static/css/2.c4418c31.chunk.css",
+    "static/js/2.5abccca3.chunk.js",
+    "static/css/main.a52ccd08.chunk.css",
+    "static/js/main.4dffc99a.chunk.js"
+  ]
+}
